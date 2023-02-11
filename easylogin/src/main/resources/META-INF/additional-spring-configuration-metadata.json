@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "a/Tokyo",
+    "type": "java.lang.String",
+    "description": "A description for 'a/Tokyo'"
+  },
+  {
+    "name": "spring.databass",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.databass'"
+  },
+  {
+    "name": "spring.jpa.databass",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.databass'"
+  }
+]}
